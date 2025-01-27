@@ -1,6 +1,4 @@
-Here’s a structured and professional **README.md** format for your Healthcare AI Chatbot project:
 
----
 
 # **Healthcare AI Chatbot**
 
